@@ -4,7 +4,7 @@
 [![Tests](https://img.shields.io/github/actions/workflow/status/omodingmike/uganda-phone-number-validator/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/omodingmike/uganda-phone-number-validator/actions/workflows/run-tests.yml)
 [![Total Downloads](https://img.shields.io/packagist/dt/omodingmike/uganda-phone-number-validator.svg?style=flat-square)](https://packagist.org/packages/omodingmike/uganda-phone-number-validator)
 
-For validating ugandan phone numbers.
+For validating and formatting ugandan phone numbers.
 
 
 ## Installation
