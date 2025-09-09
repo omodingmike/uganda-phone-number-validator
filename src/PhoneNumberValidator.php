@@ -5,7 +5,7 @@
     use OmodingMike\PhoneNumberValidator\Constants\PhoneNumberFormat;
     use OmodingMike\PhoneNumberValidator\Exceptions\InvalidPhoneNumberException;
 
-    class PhoneNumberValidatorClass
+    class PhoneNumberValidator
     {
         public static function isValid(string $phoneNumber) : bool
         {
